@@ -1,0 +1,2 @@
+_G.License = "63ffadccd2b5cadc4b41"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
